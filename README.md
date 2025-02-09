@@ -23,4 +23,4 @@ npm run migrate (csak első indításnál szükséges)
 npm run dev (fejlesztői kiszolgáló futtatása)
 ```
 
-StackBlitz - [https://stackblitz.com/edit/vitejs-vite-oenhtc?file=README.md](https://stackblitz.com/edit/vitejs-vite-oenhtc?file=README.md) Hozzatok létre egy új projektet itt, vagy kössétek össze a GitHub repotokkal, és készítsetek egy megosztható linket a projektből, úgy, hogy csak a linkkel lehessen elérni azt. Ne publikáljátok, hiszen akkor megvan az esély arra, hogy más rátalál a projektetekre, és ilyenkor kódegyezés esetén ezt nem fogjuk tudni kinyomozni.
+StackBlitz - [https://stackblitz.com/edit/vitejs-vite-oenhtc?file=README.md](https://stackblitz.com/edit/vitejs-vite-oenhtc?file=README.md)
