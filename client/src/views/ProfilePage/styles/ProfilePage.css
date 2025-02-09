@@ -1,0 +1,16 @@
+.profile-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  margin-top: 80px;
+}
+
+.profile-container h1 {
+  font-size: 3em;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.add-job-button {
+  margin: 0;
+}

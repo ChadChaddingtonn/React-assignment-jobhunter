@@ -1,0 +1,72 @@
+.register-container {
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.register-container h1 {
+  margin-bottom: 20px;
+}
+
+.register-container form {
+  display: flex;
+  flex-direction: column;
+}
+
+.register-container label {
+  color: black;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.register-container input[type="email"],
+.register-container input[type="text"],
+.register-container input[type="password"],
+.register-container input[type="password2"] {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: white;
+  color: black;
+}
+
+.radio-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.radio-group label {
+  margin: 0 10px;
+  color: black;
+}
+
+.register-button {
+  background-color: #4b51ef;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.register-button:disabled {
+  background-color: #7a7fdf;
+  cursor: not-allowed;
+}
+
+h1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-align: left;
+  padding: 25px 0px 20px 25px;
+  border-bottom: 1px solid black;
+  width: 100%;
+  color: black;
+}

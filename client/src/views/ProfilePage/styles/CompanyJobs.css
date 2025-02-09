@@ -1,0 +1,77 @@
+.profile-container {
+  padding: 20px;
+}
+
+.job-list h2,
+h3 {
+  color: black;
+}
+
+.job-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  background-color: #fff;
+}
+
+.job-info {
+  flex-grow: 1;
+}
+
+.job-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.job-type-location,
+.job-salary,
+.job-closing {
+  font-size: 14px;
+  color: #555;
+}
+
+.job-actions {
+  display: flex;
+  gap: 10px;
+}
+
+.job-actions button {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.edit-button {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.view-button {
+  background-color: #6c757d;
+  color: #fff;
+}
+
+.delete-button {
+  background-color: #dc3545;
+  color: #fff;
+}
+
+.add-job-button {
+  display: block;
+  width: 200px;
+  margin: 20px auto;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+  font-size: 16px;
+}

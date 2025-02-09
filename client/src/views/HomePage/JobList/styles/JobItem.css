@@ -1,0 +1,42 @@
+.job-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  border-bottom: 1px solid #ddd;
+}
+
+.job-details {
+  flex: 2;
+}
+
+.job-details h2 {
+  margin: 0;
+  font-size: 1.2em;
+  color: black;
+}
+
+.job-details p {
+  margin: 5px 0;
+  color: #888;
+}
+
+.job-tags {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.home-office {
+  background-color: #e0f7fa;
+  color: #00796b;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.home-office .faHome {
+  margin-right: 5px;
+}

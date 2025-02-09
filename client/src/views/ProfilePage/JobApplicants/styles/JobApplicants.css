@@ -1,0 +1,10 @@
+.applicant-list ul {
+  padding: 0;
+  color: black;
+}
+
+.applicant-list li {
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: 2em;
+}
